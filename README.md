@@ -3,12 +3,14 @@
 SD CARD MODULE CONNECTION TO THE MSP430F5529 <br>
 THIS CONFIGURATION IS DECLARED IN THE HAL_SDCard.c file
 
-GND 
-5V
-CS --------> P3.5
-MOSI------->P3.0
-SCK--------->P3.2
-MISO--------->P3.1
-GND
+GND <br>
+5V <br>
+CS --------> P3.5<br>
+MOSI------->P3.0<br>
+SCK--------->P3.2<br>
+MISO--------->P3.1<br>
+GND<br>
 
+<br>
+<br>
 THIS PROJECT ONLY WRITE DATA TO SD CARD FROM CSS PROJECT
